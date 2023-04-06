@@ -19,6 +19,38 @@ fazemos direto na variável
 */
 console.log(numero + numeroString); 
 
+// vamos calcular a aarea de um retangulo
+let largura = 10;
+let altura =  5;
+
+console.log(Number(largura) * Number(altura))
+console.log( Number(largura) * Number(altura)); 
+console.log("#######################################")
+
+//String
+
+let lar = "10";
+let alt = "5";
+console.log(+ lar * + alt)
+console.log("#######################################")
+
+let telefone =  12341234;
+console.log("O telefone é "+ String(telefone)); 
+console.log("O telefone é "+ telefone.toString());
+console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+
+let usuarioConectado = false;
+//let usuarioConectado = true;
+console.log(String(usuarioConectado));
+console.log(Number(usuarioConectado));
+
+console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+let nome = "Yuki";
+console.log(Number(nome));
+console.log(nome);
+
+
+
 
 
 // Conversão Implicita
