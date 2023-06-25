@@ -20,8 +20,9 @@
 - [x] Utilizando forEach.
 - [x] Orientação Objeto.
 
-## Para executar os scripts pode ser feito em 2 maneira: 
 -----------------------------------------------------------------------------------------------
+## Para executar os scripts pode ser feito em 2 maneira: 
+
 ## Primeira Maneira: 
 
 - [x] No index.html, lembre-se apenas de trocar o nome do arquivo e usar o inspecionar e clicar na aba console.
@@ -29,3 +30,4 @@
 ## Segunda Maineira: 
 - [x] Para executar os scripts no Terminal use node nomeDoArquivo.js
 -----------------------------------------------------------------------------------------------
+
