@@ -1,5 +1,5 @@
 # Estudos JavaScript
-- [x]Tipos Primitivos
+- [x] Tipos Primitivos
 - Utilizando String, Boolean, Números
 - Operações Matemáticas. 
 
