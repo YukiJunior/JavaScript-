@@ -53,7 +53,5 @@ console.log(nome);
 
 
 
-// Conversão Implicita
-
 
 
