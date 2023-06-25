@@ -1,4 +1,4 @@
-# Estudos JavaScript: 
+# Estudos JavaScript/Curso de JavaScript; 
 -----------------------------------------------------------------------------------------
 
 - [x] Variável.
@@ -21,13 +21,12 @@
 - [x] Orientação Objeto.
 
 -----------------------------------------------------------------------------------------------
-## Para executar os scripts pode ser feito em 2 maneira: 
+## Para executar os scripts pode ser feito em duas maneiras: 
 
 ## Primeira Maneira: 
 
 - [x] No index.html, lembre-se apenas de trocar o nome do arquivo e usar o inspecionar e clicar na aba console.
 
-## Segunda Maineira: 
+## Segunda Maneira: 
 - [x] Para executar os scripts no Terminal use node nomeDoArquivo.js
 -----------------------------------------------------------------------------------------------
-
